@@ -1,4 +1,4 @@
-# Cancer-Detection-with-CNNs
+1# Cancer-Detection-with-CNNs
 Detection of Cancer in pathology images of breast tissues using deep learning
 
 ## Motivation:
@@ -6,6 +6,7 @@ The goal of this project is to assist pathologists in detecting cancer cells in 
 
 ## Data:
 Gigapixel pathology slides. There are multiple different zoom levels for each slide
+
 https://camelyon17.grand-challenge.org/Data/
 
 ## Method:
